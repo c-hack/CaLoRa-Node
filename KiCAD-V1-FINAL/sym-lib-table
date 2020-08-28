@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name adafruit)(type Legacy)(uri /home/ralf/KiCAD/SparkFun-Kicad-Libraries-master/adafruit.lib)(options "")(descr "")(disabled))
+  (lib (name Maxim-Ralf)(type Legacy)(uri ${KIPRJMOD}/Maxim-Ralf.lib)(options "")(descr ""))
+)
