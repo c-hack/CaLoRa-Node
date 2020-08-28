@@ -11,4 +11,4 @@ It uses an Atmel ATMega328 with the Arduino-UNO bootloader.
 The LoRAWAN is implemented with an HopeRF RFM95W module.
 The board implements some grove compatible connectors wuth I2C and analog inputs of the MCU.
 
-We use the [Link](https://github.com/matthijskooijman/arduino-lmic "lmic") software library for now but will add a wrapper to make it simpler. 
+We use the [lmic](https://github.com/matthijskooijman/arduino-lmic "lmic") software library for now but will add a wrapper to make it simpler. 
