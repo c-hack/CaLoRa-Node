@@ -1,7 +1,9 @@
 # CaLoRa-Node
 ## c-hack.de and surasto.de 2020 
 
-![](board.jpg)
+![](board1.jpg)
+
+![](board2.jpg)
 
 This LoRaWAN node is designed to run for long time on a battery.
 It uses an external RTC (DS1337) with alarm function to enable or disable the complete power supply by switching a P-MOS FET.
